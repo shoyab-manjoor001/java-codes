@@ -38,9 +38,9 @@ class Cuboid extends Rectangle
         h=z;
     }
 
-    public Volume(int )
+    public int Volume(int x,int y,int z)
     {
-
+            return x*y*z;
     }
 }
 
