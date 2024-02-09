@@ -9,6 +9,15 @@ public static void main(String[] args) {
         }
     };
     obj.show();
+
+    AgeAbs obj2 = new AgeAbs() {
+
+        @Override
+        public void show() {
+        System.out.println("Inside Abstact implemenation method of Abstract Anonymous class..");   
+        }    
+    };
+    obj2.show();
 }
     
 }
