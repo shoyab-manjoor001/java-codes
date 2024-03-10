@@ -1,4 +1,3 @@
-package CollectionFrameWork;
 
 import java.util.Vector;
 

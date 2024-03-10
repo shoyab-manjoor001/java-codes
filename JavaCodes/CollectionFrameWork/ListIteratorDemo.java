@@ -1,5 +1,3 @@
-package CollectionFrameWork;
-
 import java.util.LinkedList;
 import java.util.ListIterator;
 
